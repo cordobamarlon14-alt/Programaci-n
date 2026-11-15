@@ -37,14 +37,3 @@ La demostracion realiza 15 operaciones con entradas validas e invalidas, muestra
 ## Decisiones de calculo
 
 Las reservas de sala se cobran por hora, los equipos por dia y las asesorias por hora. Cada servicio aplica descuento e impuesto opcionales. El metodo `calcular_costo(duracion, descuento=0, impuesto=0)` permite llamarse con solo la duracion, con duracion y descuento, o con los tres valores; en Python esta tecnica usa parametros opcionales para simular la sobrecarga.
-
-## Integrantes
-
-Completar en equipo antes de la entrega:
-
-- Integrante 1: [nombre]
-- Integrante 2: [nombre]
-- Integrante 3: [nombre]
-- Integrante 4: [nombre]
-- Integrante 5: [nombre]
-
